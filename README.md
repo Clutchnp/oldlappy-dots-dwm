@@ -1,4 +1,5 @@
-# Luke's build of dwm
+
+# Clutchnp's build of dwm for old lappy forked from [@LukeSmithxyz]("https://github.com/LukeSmithxyz/")
 
 ## FAQ
 
@@ -23,12 +24,12 @@ I haven't kept `man dwm`/`dwm.1` updated though. PRs welcome on that, lol.
 - [shiftview](https://dwm.suckless.org/patches/nextprev/): Cycle through tags (<kbd>super+g/;</kbd>).
 - [vanitygaps](https://dwm.suckless.org/patches/vanitygaps/): Gaps allowed across all layouts.
 - [swallow patch](https://dwm.suckless.org/patches/swallow/): if a program run from a terminal would make it inoperable, it temporarily takes its place to save space.
-
+- [attachasideandbelowpatch]("https://dwm.suckless.org/patches/attachasideandbelow/")
 
 ## Installation for newbs
 
 ```bash
-git clone https://github.com/LukeSmithxyz/dwm.git
+git clone https://github.com/Clutchnp/oldlappy-dots.git
 cd dwm
 sudo make install
 ```
